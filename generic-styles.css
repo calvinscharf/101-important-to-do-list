@@ -4,23 +4,23 @@
 }
 
 section {
-  background-color: #b1deef;
+  background-color: #ebefb1;
   min-height: 20px;
   max-width: 50%;
   margin: 1% auto;
   text-align: center;
   padding: 5% auto;
-  border: 1px solid #264653;
+  border: 1px solid #006891;
 }
 
 h2 {
-  color: #E76F51;
+  color: #8351e7;
 }
 
 button {
   margin: 25px 10px;
-  border: 1px solid #299D8F;
-  background-color:  #89c8c1;
+  border: 1px solid #00423a;
+  background-color:  #83fcee;
   padding: 6px 14px;
   max-height: 30px;
   min-height: 30px;
@@ -28,7 +28,7 @@ button {
 
 input {
   margin: 25px 10px;
-  border: 1px solid #E9C46B;
+  border: 1px solid #ffd573;
   max-height: 24px;
   min-height: 30px;
 }
